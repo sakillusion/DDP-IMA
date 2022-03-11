@@ -1,8 +1,10 @@
 body {
 	margin: 0;
-	font-family: 'monospace;', sans-serif;
+	font-family: 'American Typewritter;', sans-serif;
 	font-size: 20px;
 	line-height: 30px;
+	font-weight: normal;
+	color: lightgoldenrodyellow;
 }
 
 /*Header section*/
